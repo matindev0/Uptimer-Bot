@@ -34,4 +34,4 @@ require("./handler")(client);
 
 
 
-client.login(process.env.TOKEN);
+client.login("OTQwNjEyMDQwNTA1MDM2ODIw.Gfl7CR.xpo7UaMlmLgsrAqW25eEGIaIr78nm0FvzgRS3I");
