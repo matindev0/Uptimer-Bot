@@ -24,7 +24,7 @@ setInterval(function() {
     });
   });
   console.log("\x1b[36m", "Ping a monitor")
-	client.user.setActivity(`Monitoring ${count} Website`, {
+	client.user.setActivity(`Prefix .help / Monitoring ${count} Website`, {
 		type: "WATCHING"
 	});
 }, 10000);
